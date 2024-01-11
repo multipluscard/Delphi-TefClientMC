@@ -16,6 +16,8 @@ Implementação em **Delphi**, com o objetivo de auxiliar no processo de integra
 <b>Utilize o Guia Técnico sempre como referência</b>, onde todas as funções e parâmetros estão descritos com detalhes. \
 Para obter a versão mais recente da DLL baixe através do Portal do Representante na sessão Downloads.
 
+<b>Observação:</b> O projeto foi desenvolvido na IDE versão 10.4. Se você estiver utilizando uma versão anterior, pode ser necessário efetuar ajustes para garantir a compilação adequada do projeto.
+
 <hr>
 
 ### Como utilizar 
